@@ -3,12 +3,6 @@
 A web application to predict home prices in Bangalore using machine learning. The project includes a Python backend (Flask), a trained model, and a simple HTML frontend for user interaction.
 
 ---
-
-# Website-Link
-
-LINK- http://localhost:63342/BHP-main/Client/index.html
-
-
 ## Project Structure
 
 ```
